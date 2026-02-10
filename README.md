@@ -25,3 +25,9 @@ This type of task has wide applicability across many real-world industries and d
 Another important area where such analysis is applicable is telecommunications, where companies manage huge datasets related to call records, network usage, and customer activity. Big-data tools help in optimizing network performance, predicting service demand, and improving customer experience. In social media platforms, millions of posts, comments, and user interactions are generated every minute. Distributed data processing allows companies to analyze user behavior, track trending topics, and personalize content recommendations efficiently. Additionally, government organizations use large-scale data analytics for population studies, traffic management, urban planning, and public policy decision-making.
 
 Overall, this task demonstrates the practical use of PySpark and distributed computing techniques for handling and analyzing large datasets efficiently. By applying preprocessing, filtering, grouping, and aggregation techniques using scalable tools, the project highlights how big-data technologies are essential for modern data-driven decision-making across multiple industries. The final deliverable of the task includes a well-documented script or notebook containing the implemented code along with the insights derived from the processed dataset, showcasing the effectiveness of scalable data-analysis methods.
+
+output 
+
+[pyspark_task_output-1.pdf](https://github.com/user-attachments/files/25205556/pyspark_task_output-1.pdf)
+[Task3_Dashboard_Output.pdf](https://github.com/user-attachments/files/25205557/Task3_Dashboard_Output.pdf)
+[Task4_Sentiment_Output.pdf](https://github.com/user-attachments/files/25205558/Task4_Sentiment_Output.pdf)
